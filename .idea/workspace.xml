@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第一周-搭建环境，测试代码-成功-3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第一周-搭建环境，测试代码-成功-3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <workItem from="1676720886994" duration="1425000" />
       <workItem from="1676728480543" duration="855000" />
       <workItem from="1676729358323" duration="194000" />
-      <workItem from="1676781638552" duration="593000" />
+      <workItem from="1676781638552" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -157,7 +154,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676729517058</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="第一周-搭建环境，测试代码-成功-3">
+      <created>1676782426799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676782426799</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第一周-搭建环境，测试代码-成功-3">
+      <created>1676782469068</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676782469068</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第一周-搭建环境，测试代码-成功-3">
+      <created>1676782574376</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676782574376</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
