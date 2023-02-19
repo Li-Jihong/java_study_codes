@@ -3,7 +3,7 @@ public class Hello {
         System.out.println("大家好！");
         System.out.println("Nice to meet you");
         Student stu = new Student();
-        stu.speak("We are students！！！！！！");
+        stu.speak("We are students！！！！");
     }
 }
 
