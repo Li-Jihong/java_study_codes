@@ -13,7 +13,7 @@ public class _2_Number {
             d3=number/100%10;   //计算number的百位d3
             d2=number%100/10;
             d1=number%10;
-            if(d5>0)  //判断number是5位数的条件
+            if(d5>0)  //判断number是5位数的条件6
             {
                 System.out.println(number+"是5位数");
                 if(d5==d1&&d2==d4) //判断number是回文数的条件
