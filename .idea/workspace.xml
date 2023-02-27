@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第一周实验课，完成代码">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第三周实验课，完成实验2的代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +109,7 @@
       <workItem from="1676890344186" duration="91000" />
       <workItem from="1676890453971" duration="169000" />
       <workItem from="1677327991734" duration="2422000" />
-      <workItem from="1677491693282" duration="353000" />
+      <workItem from="1677491693282" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -322,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676890595796</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="第三周实验课，完成实验2的代码">
+      <created>1677492092696</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677492092696</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +346,8 @@
     <MESSAGE value="第一周-搭建环境，测试代码-成功-5" />
     <MESSAGE value="第一周实验课，完成代码——1" />
     <MESSAGE value="第一周实验课，完成代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一周实验课，完成代码" />
+    <MESSAGE value="第三周实验课，完成实验2的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三周实验课，完成实验2的代码" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
