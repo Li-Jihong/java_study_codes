@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第一周实验课，完成代码">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,21 +67,21 @@
   <component name="RunManager" selected="应用程序.E">
     <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E" />
-      <module name="java_codes" />
+      <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="java_codes" />
+      <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
-      <module name="java_codes" />
+      <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,6 +117,7 @@
       <workItem from="1676890344186" duration="91000" />
       <workItem from="1676890453971" duration="169000" />
       <workItem from="1677327991734" duration="2422000" />
+      <workItem from="1677491693282" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>

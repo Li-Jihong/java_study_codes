@@ -1,5 +1,5 @@
 
-public class E {
+public class _1_E {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
