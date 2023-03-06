@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="提交了这两次的实验报告">
+      <change afterPath="$PROJECT_DIR$/src/_3_CalculatePi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,23 +71,37 @@
       <recent name="D:\java_study_codes\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.E">
-    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E" />
+  <component name="RunManager" selected="应用程序._3_CalculatePi">
+    <configuration name="_3_CalculatePi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_CalculatePi" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+    <configuration name="_3_GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_GuessNumber" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
+    <configuration name="_3_MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_MainClass" />
+      <module name="java_study_codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_PiCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_PiCalculation" />
+      <module name="java_study_codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_User" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,9 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.E" />
-        <item itemvalue="应用程序.MainClass" />
-        <item itemvalue="应用程序.Hello" />
+        <item itemvalue="应用程序._3_CalculatePi" />
+        <item itemvalue="应用程序._3_PiCalculation" />
+        <item itemvalue="应用程序._3_MainClass" />
+        <item itemvalue="应用程序._3_User" />
+        <item itemvalue="应用程序._3_GuessNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +146,7 @@
       <workItem from="1677857742816" duration="83000" />
       <workItem from="1677912330171" duration="9000" />
       <workItem from="1677918377672" duration="903000" />
+      <workItem from="1678028599095" duration="9377000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
