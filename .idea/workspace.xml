@@ -4,15 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="提交了这两次的实验报告">
-      <change afterPath="$PROJECT_DIR$/src/_3_CalculatePi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Vehicle.java" afterDir="false" />
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第三次实验课">
+      <change afterPath="$PROJECT_DIR$/src/_4_Land.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4_RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4_Village.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tom/_4_SunRise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tom/jiafei/_4_SquareEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid17336.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/DoWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/DoWhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/JieCheng.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/JieCheng.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/PerfectNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/PerfectNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/QianShi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/QianShi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/SuShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/SuShu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/XiaoYu_8888.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/XiaoYu_8888.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_CopyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_CopyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_GreekAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_GreekAlphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_InputArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_InputArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_CalculatePi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_CalculatePi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_Family.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_Family.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_GuessNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_GuessNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_CalculatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_CalculatePi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,71 +72,83 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java_study_codes/notes&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18450561&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java_study_codes/notes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.语言默认值",
+    "settings.editor.splitter.proportion": "0.18450561",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_study_codes\notes" />
+    </key>
   </component>
-  <component name="RunManager" selected="应用程序._3_CalculatePi">
-    <configuration name="_3_CalculatePi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_CalculatePi" />
+  <component name="RunManager" selected="应用程序._4_RegularPolygon">
+    <configuration name="E (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_GuessNumber" />
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_MainClass" />
+    <configuration name="_4_Land" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_Land" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_PiCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_PiCalculation" />
+    <configuration name="_4_RegularPolygon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_RegularPolygon" />
       <module name="java_study_codes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_3_User" />
+    <configuration name="_4_SunRise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tom._4_SunRise" />
       <module name="java_study_codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序._3_CalculatePi" />
-        <item itemvalue="应用程序._3_PiCalculation" />
-        <item itemvalue="应用程序._3_MainClass" />
-        <item itemvalue="应用程序._3_User" />
-        <item itemvalue="应用程序._3_GuessNumber" />
+        <item itemvalue="应用程序._4_RegularPolygon" />
+        <item itemvalue="应用程序._4_SunRise" />
+        <item itemvalue="应用程序._4_Land" />
+        <item itemvalue="应用程序.E (1)" />
+        <item itemvalue="应用程序.E" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +181,15 @@
       <workItem from="1677857742816" duration="83000" />
       <workItem from="1677912330171" duration="9000" />
       <workItem from="1677918377672" duration="903000" />
-      <workItem from="1678028599095" duration="9377000" />
+      <workItem from="1678028599095" duration="9824000" />
+      <workItem from="1678090533721" duration="4591000" />
+      <workItem from="1678099085844" duration="1041000" />
+      <workItem from="1679037247406" duration="444000" />
+      <workItem from="1679040071867" duration="777000" />
+      <workItem from="1679065010490" duration="27000" />
+      <workItem from="1679801722656" duration="470000" />
+      <workItem from="1679896840392" duration="1210000" />
+      <workItem from="1679898073637" duration="4636000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -393,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677494543067</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="第三次实验课">
+      <created>1678062796498</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678062796499</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +470,8 @@
     <MESSAGE value="第一周实验课，完成代码" />
     <MESSAGE value="第三周实验课，完成实验2的代码" />
     <MESSAGE value="提交了这两次的实验报告" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交了这两次的实验报告" />
+    <MESSAGE value="第三次实验课" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次实验课" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
