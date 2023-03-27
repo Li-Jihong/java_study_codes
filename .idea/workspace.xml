@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第三次实验课">
-      <change afterPath="$PROJECT_DIR$/src/_4_Land.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_4_RegularPolygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_4_Village.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tom/_4_SunRise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tom/jiafei/_4_SquareEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第7周实验课，交第四次报告">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid17336.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/DoWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/DoWhileLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/JieCheng.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/JieCheng.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/PerfectNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/PerfectNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/QianShi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/QianShi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/SuShu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/SuShu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/XiaoYu_8888.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/XiaoYu_8888.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_CopyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_CopyArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_GreekAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_GreekAlphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_InputArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_InputArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_CalculatePi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_CalculatePi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_Family.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_Family.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_GuessNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_GuessNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_TV.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_3_CalculatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_CalculatePi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,26 +42,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_study_codes/notes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.语言默认值",
-    "settings.editor.splitter.proportion": "0.18450561",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java_study_codes/notes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.语言默认值&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18450561&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
@@ -189,7 +159,8 @@
       <workItem from="1679065010490" duration="27000" />
       <workItem from="1679801722656" duration="470000" />
       <workItem from="1679896840392" duration="1210000" />
-      <workItem from="1679898073637" duration="4636000" />
+      <workItem from="1679898073637" duration="4812000" />
+      <workItem from="1679906794912" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -443,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678062796499</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="第7周实验课，交第四次报告">
+      <created>1679903214965</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1679903214965</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,7 +449,8 @@
     <MESSAGE value="第三周实验课，完成实验2的代码" />
     <MESSAGE value="提交了这两次的实验报告" />
     <MESSAGE value="第三次实验课" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次实验课" />
+    <MESSAGE value="第7周实验课，交第四次报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="第7周实验课，交第四次报告" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
