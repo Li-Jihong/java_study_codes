@@ -46,7 +46,7 @@ class Tiger extends Animal{
   	return news;
   }
   
-  //�����ķ���
+  //新增的方法
   public  String eat(){
   	return "need eat meat";
   }
