@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="更新了项目目录">
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="更新了第五章的作业的第四个java文件，解决了其中有一行中文注释乱码问题。">
+      <change afterPath="$PROJECT_DIR$/notes/张春元-Java程序设计实验报告5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/American.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/Beijingman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/CompanySalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_5_/SaveMoney.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_5_extra/TestChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_extra/TestChange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +57,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java_study_codes/src/_5_extra",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/java_study_codes/notes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,28 +67,28 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.语言默认值",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "settings.editor.splitter.proportion": "0.18450561",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_study_codes\notes" />
       <recent name="D:\java_study_codes\src\_5_extra" />
       <recent name="D:\java_study_codes\src" />
-      <recent name="D:\java_study_codes\notes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.TestChange">
-    <configuration name="DynamicBindingDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_extra.DynamicBindingDemo" />
+  <component name="RunManager" selected="应用程序.SaveMoney">
+    <configuration name="CompanySalary (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_.CompanySalary" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_5_extra.*" />
+          <option name="PATTERN" value="_5_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicBindingDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_extra.DynamicBindingDemo" />
+    <configuration name="CompanySalary (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_.CompanySalary" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_5_extra.*" />
+          <option name="PATTERN" value="_5_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicBindingDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_extra.DynamicBindingDemo" />
+    <configuration name="CompanySalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_.CompanySalary" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_5_extra.*" />
+          <option name="PATTERN" value="_5_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HidingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_extra.HidingDemo" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_.Example" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_5_extra.*" />
+          <option name="PATTERN" value="_5_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_5_extra.TestChange" />
+    <configuration name="SaveMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_.SaveMoney" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_5_extra.*" />
+          <option name="PATTERN" value="_5_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestChange" />
-        <item itemvalue="应用程序.HidingDemo" />
-        <item itemvalue="应用程序.DynamicBindingDemo (3)" />
-        <item itemvalue="应用程序.DynamicBindingDemo (2)" />
-        <item itemvalue="应用程序.DynamicBindingDemo (1)" />
+        <item itemvalue="应用程序.SaveMoney" />
+        <item itemvalue="应用程序.CompanySalary (2)" />
+        <item itemvalue="应用程序.CompanySalary" />
+        <item itemvalue="应用程序.CompanySalary (1)" />
+        <item itemvalue="应用程序.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +201,11 @@
       <workItem from="1679974737557" duration="35000" />
       <workItem from="1679974981208" duration="1293000" />
       <workItem from="1680055630861" duration="677000" />
-      <workItem from="1680056324583" duration="7513000" />
+      <workItem from="1680056324583" duration="7667000" />
+      <workItem from="1680175566772" duration="90000" />
+      <workItem from="1680499398308" duration="386000" />
+      <workItem from="1680499883193" duration="46000" />
+      <workItem from="1680499939327" duration="9428000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -467,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680056965367</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="更新了第五章的作业的第四个java文件，解决了其中有一行中文注释乱码问题。">
+      <created>1680070505056</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1680070505056</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +518,8 @@
     <MESSAGE value="第7周实验课，交第四次报告" />
     <MESSAGE value="第7周实验课，交第四次报告-更改了实验报告，添加了UML图" />
     <MESSAGE value="更新了项目目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新了项目目录" />
+    <MESSAGE value="更新了第五章的作业的第四个java文件，解决了其中有一行中文注释乱码问题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了第五章的作业的第四个java文件，解决了其中有一行中文注释乱码问题。" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
