@@ -10,13 +10,12 @@ package xiti;
  */
 public class QianShi {
     public static void main(String[] args) {
-        long num1 = 8,num2 = 8,num = 8;
-        for(int i = 0;i<9;i++)
-        {
-            num1 = 8 + num1*10;
+        long num1 = 8, num2 = 8, num = 8;
+        for (int i = 0; i < 9; i++) {
+            num1 = 8 + num1 * 10;
             num = num + num1;
         }
-        System.out.printf("%d",num);
+        System.out.printf("%d", num);
         // 9876543200
     }
 }

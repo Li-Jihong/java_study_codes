@@ -1,6 +1,6 @@
 package _4_.tom;
 
-import _4_.tom.jiafei.*;
+import _4_.tom.jiafei._4_SquareEquation;
 
 /**
  * \* Created with IntelliJ IDEA.
@@ -11,9 +11,9 @@ import _4_.tom.jiafei.*;
  */
 public class _4_SunRise {
     public static void main(String args[]) {
-        _4_SquareEquation equation = new _4_SquareEquation(4,5,1);
+        _4_SquareEquation equation = new _4_SquareEquation(4, 5, 1);
         equation.getRoots();
-        equation.setCoefficient(-3,4,5);
+        equation.setCoefficient(-3, 4, 5);
         equation.getRoots();
     }
 }

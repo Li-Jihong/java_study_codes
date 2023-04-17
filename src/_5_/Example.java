@@ -7,11 +7,11 @@ package _5_;
  * \* Time: 13:38
  * \
  */
-public class Example{
-    public static void main(String args[]){
-        Chinese chinaPeople=new Chinese();
-        American americanPeople=new American();
-        Beijingman beijingPeople=new Beijingman();
+public class Example {
+    public static void main(String args[]) {
+        Chinese chinaPeople = new Chinese();
+        American americanPeople = new American();
+        Beijingman beijingPeople = new Beijingman();
         chinaPeople.speakHello();
         americanPeople.speakHello();
         beijingPeople.speakHello();

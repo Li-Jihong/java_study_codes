@@ -9,10 +9,12 @@ package _6_.shiyan3;
  */
 public class Dog {
     DogState state;//声明接口的变量
-    public void show(){
+
+    public void show() {
         state.showState();//调用接口里面的函数
     }
-    public void setState(DogState s){
-        state=s;
+
+    public void setState(DogState s) {
+        state = s;
     }
 }

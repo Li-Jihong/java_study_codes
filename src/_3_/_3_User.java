@@ -10,7 +10,7 @@ package _3_;
 
 public class _3_User {
     public static void main(String args[]) {
-        _3_Vehicle car1,car2;
+        _3_Vehicle car1, car2;
         car1 = new _3_Vehicle(); //使用 new 运算符和默认的构造方法创建对象 car1
         car2 = new _3_Vehicle(); //使用 new 运算符和默认的构造方法创建对象 car2
         car1.setPower(128);

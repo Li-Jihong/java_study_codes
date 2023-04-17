@@ -7,7 +7,7 @@ package _6_.shiyan3;
  * \* Time: 17:16
  * \
  */
-public class MeetAnotherDog implements DogState{
+public class MeetAnotherDog implements DogState {
     @Override
     public void showState() {
         System.out.println("嬉戏");

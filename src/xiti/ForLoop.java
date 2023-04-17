@@ -7,7 +7,7 @@ package xiti;/*
  * @FilePath: \java_study_codes\src\xiti.ForLoop.java
  */
 
- public class ForLoop {
+public class ForLoop {
     public static void main(String[] args) {
         double sum = 0;
 

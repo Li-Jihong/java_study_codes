@@ -7,7 +7,7 @@ package xiti;/*
  * @FilePath: \java_study_codes\src\xiti.DoWhileLoop.java
  */
 
- public class DoWhileLoop {
+public class DoWhileLoop {
     public static void main(String[] args) {
         int n = 1;
         double sum = 0, factorial = 1;

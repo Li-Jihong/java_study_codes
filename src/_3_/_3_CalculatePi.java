@@ -24,20 +24,21 @@ public class _3_CalculatePi {
             toltalS += s * pow(2, i);
             a = getWidth(h, a);
         }
-        double pi = toltalS / pow(r,2);
+        double pi = toltalS / pow(r, 2);
         System.out.println("Pi is " + pi);
     }
+
     public static double getSquareSide(double r) {
         return sqrt(2) * r;
     }
 
     public static double getHeight(double a, double r) {
-        double h = r - sqrt(pow(r,2) - pow(a/2,2));
+        double h = r - sqrt(pow(r, 2) - pow(a / 2, 2));
         return h;
     }
 
     public static double getWidth(double h, double a) {
-        double y = sqrt(pow(h,2)+pow(a/2,2));
+        double y = sqrt(pow(h, 2) + pow(a / 2, 2));
         return y;
     }
 }

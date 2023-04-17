@@ -8,7 +8,7 @@ package _6_.shiyan3;
  * \
  */
 public class SoflyState implements DogState {
-    public void showState(){
+    public void showState() {
         System.out.println("听主人的命令");
     }
 }

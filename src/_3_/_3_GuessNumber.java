@@ -5,8 +5,9 @@ package _3_; /**
  * \* Time: 23:16
  * \
  */
-import java.util.Scanner;
+
 import java.util.Random;
+import java.util.Scanner;
 
 public class _3_GuessNumber {
     public static void main(String[] args) {
@@ -18,12 +19,11 @@ public class _3_GuessNumber {
         System.out.print("输入您的猜测:");
         yourGuess = reader.nextInt();
         //当yourGuess  的数字与随机数不同时，进入while循环，直到两数字大小一样
-        while(yourGuess != realNumber){ // 循环条件
-            if(yourGuess > realNumber){ //猜大了的条件代码
+        while (yourGuess != realNumber) { // 循环条件
+            if (yourGuess > realNumber) { //猜大了的条件代码
                 System.out.print("猜大了，再输入您的猜测:");
                 yourGuess = reader.nextInt();
-            }
-            else if(yourGuess < realNumber){ //猜小了的条件代码
+            } else if (yourGuess < realNumber) { //猜小了的条件代码
                 System.out.print("猜小了，再输入您的猜测:");
                 yourGuess = reader.nextInt();
             }

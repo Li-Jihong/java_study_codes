@@ -34,7 +34,8 @@ public class ColdWater implements Water {
             return "gas";
         }
     }
-    public double getTemperature(){
+
+    public double getTemperature() {
         return this.temperature;
     }
 }

@@ -7,7 +7,7 @@ package _6_.shiyan3;
  * \* Time: 17:13
  * \
  */
-class MeetEnemyState implements DogState{//实现接口的类
+class MeetEnemyState implements DogState {//实现接口的类
 
     @Override
     public void showState() {

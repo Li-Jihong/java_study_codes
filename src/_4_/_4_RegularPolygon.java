@@ -37,6 +37,21 @@ public class _4_RegularPolygon {
         this.y = y;
     }
 
+    public static void main(String[] args) {
+        _4_RegularPolygon polygon1 = new _4_RegularPolygon();
+        _4_RegularPolygon polygon2 = new _4_RegularPolygon(6, 4);
+        _4_RegularPolygon polygon3 = new _4_RegularPolygon(10, 4, 5.6, 7.8);
+
+        System.out.println("Polygon 1 perimeter: " + polygon1.getPerimeter());
+        System.out.println("Polygon 1 area: " + polygon1.getArea());
+
+        System.out.println("Polygon 2 perimeter: " + polygon2.getPerimeter());
+        System.out.println("Polygon 2 area: " + polygon2.getArea());
+
+        System.out.println("Polygon 3 perimeter: " + polygon3.getPerimeter());
+        System.out.println("Polygon 3 area: " + polygon3.getArea());
+    }
+
     public int getN() {
         return n;
     }
@@ -76,19 +91,4 @@ public class _4_RegularPolygon {
     public double getArea() {
         return (n * side * side) / (4 * Math.tan(Math.PI / n));
     } //返回正多边形的面积
-
-    public static void main(String[] args) {
-        _4_RegularPolygon polygon1 = new _4_RegularPolygon();
-        _4_RegularPolygon polygon2 = new _4_RegularPolygon(6, 4);
-        _4_RegularPolygon polygon3 = new _4_RegularPolygon(10, 4, 5.6, 7.8);
-
-        System.out.println("Polygon 1 perimeter: " + polygon1.getPerimeter());
-        System.out.println("Polygon 1 area: " + polygon1.getArea());
-
-        System.out.println("Polygon 2 perimeter: " + polygon2.getPerimeter());
-        System.out.println("Polygon 2 area: " + polygon2.getArea());
-
-        System.out.println("Polygon 3 perimeter: " + polygon3.getPerimeter());
-        System.out.println("Polygon 3 area: " + polygon3.getArea());
-    }
 }

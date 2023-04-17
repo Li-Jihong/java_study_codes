@@ -14,19 +14,21 @@ public class Bank {
     double dayRate;
     double yearRate;
     double interest;
-    public double computerInterest() {
-        double r = year-(int)year;
-        int day=(int)(r * 1000);
-        double dayInterest = day * this.dayRate * savedMoney;
-        double yearInterest = (int)year * this.yearRate * savedMoney;
-        interest = yearInterest + dayInterest;
-        System.out.printf("%d 元存在银行%d %d 年零%d 天的利息:%f 元\n", savedMoney,i,(int)year,day,interest);
-        return interest;
-    }
-    public Bank(double year, int i ,double dayRate, double yearRate) {
+
+    public Bank(double year, int i, double dayRate, double yearRate) {
         this.i = i;
         this.year = year;
         this.dayRate = dayRate;
         this.yearRate = yearRate;
+    }
+
+    public double computerInterest() {
+        double r = year - (int) year;
+        int day = (int) (r * 1000);
+        double dayInterest = day * this.dayRate * savedMoney;
+        double yearInterest = (int) year * this.yearRate * savedMoney;
+        interest = yearInterest + dayInterest;
+        System.out.printf("%d 元存在银行%d %d 年零%d 天的利息:%f 元\n", savedMoney, i, (int) year, day, interest);
+        return interest;
     }
 }

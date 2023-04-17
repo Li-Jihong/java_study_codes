@@ -10,36 +10,41 @@ package _5_;
 abstract class Employee {
     public abstract double earnings();
 }
+
 class YearWorker extends Employee {
     public double earnings() {
         return 12000;
     } //重写 earnings()方法
 }
+
 class MonthWorker extends Employee {
     public double earnings() {
-        return 12*2300;
+        return 12 * 2300;
     } //重写 earnings()方法
 }
+
 class WeekWorker extends Employee {
     public double earnings() {
-        return 52*780;
+        return 52 * 780;
     } //重写 earnings()方法。
 }
 
 class HourWorker extends Employee {
     public double earnings() {
-        return 3650*50;
+        return 3650 * 50;
     } //重写 earnings()方法。
 }
 
 class Company {
     Employee[] employee;
-    double salaries=0;
+    double salaries = 0;
+
     Company(Employee[] employee) {
-        this.employee=employee;
+        this.employee = employee;
     }
+
     public double salariesPay() {
-        salaries=0;
+        salaries = 0;
         for (Employee value : employee) {
             salaries = salaries + value.earnings();
         } //计算 salaries。
@@ -49,15 +54,15 @@ class Company {
 
 public class CompanySalary {
     public static void main(String[] args) {
-        Employee [] employee = new Employee[29]; //公司有 29 名雇员
-        for(int i = 0; i < employee.length; i++) { //雇员简单地分成三类
-            if(i % 4 == 0)
+        Employee[] employee = new Employee[29]; //公司有 29 名雇员
+        for (int i = 0; i < employee.length; i++) { //雇员简单地分成三类
+            if (i % 4 == 0)
                 employee[i] = new WeekWorker();
-            else if(i % 4 == 1)
+            else if (i % 4 == 1)
                 employee[i] = new MonthWorker();
-            else if(i % 4 == 2)
+            else if (i % 4 == 2)
                 employee[i] = new YearWorker();
-            else if(i % 4 == 3)
+            else if (i % 4 == 3)
                 employee[i] = new HourWorker();
         }
         Company company = new Company(employee);

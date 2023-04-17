@@ -24,6 +24,7 @@ class WashMachine implements ComputeWeight {
         return 13.8;
     }
 }
+
 class Refrigerrator implements ComputeWeight {
     public double computeWeight() {
         return 15;
