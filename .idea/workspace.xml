@@ -4,28 +4,101 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第11周，没做实验,进行了实验课测试">
-      <change afterPath="$PROJECT_DIR$/notes/张春元-Java程序设计实验报告8.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/张春元-Java程序设计实验报告9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan1/CompareDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan1/InterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan2/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan2/HandleBigInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan2/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan3/ComputerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan3/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan3/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan4/CalendarPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan4/GiveCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_9_/shiyan4/ShowCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qizhong/Ex8_1/Ex8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qizhong/Ex8_2/Ex8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qizhong/Ex8_3/Ex8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qizhong/Ex_8_4_1/Ex8_4(1).java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qizhong/Ex_8_4_2/Ex8_4(2).java" afterDir="false" />
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第9周，第6次实验,重新上传了实验报告">
+      <change afterPath="$PROJECT_DIR$/src/Example3_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan1/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan1/DangerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan1/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan1/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan2/FindMess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_/shiyan3/ComputerPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qizhong/test3/ZPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qizhong/test3/ZPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qizhong/test4_2/GeoAeraSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qizhong/test4_2/GeoAeraSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_1_/_1_E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_1_/_1_E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_/_2_GreekAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_/_2_GreekAlphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_2_/_2_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_2_/_2_Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_CalculatePi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_CalculatePi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_Family.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_Family.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_GuessNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_GuessNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_3_/_3_Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_4_/_4_RegularPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_4_/_4_RegularPolygon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_4_/_4_Village.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_4_/_4_Village.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_4_/tom/jiafei/_4_SquareEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_4_/tom/jiafei/_4_SquareEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/American.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/American.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Beijingman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Beijingman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Chinese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Chinese.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/CompanySalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/CompanySalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/HourWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/HourWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/MonthWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/MonthWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/WeekWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/WeekWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_/YearWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_/YearWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/BoardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/BoardGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/Chess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_5_extra/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan2/CheckCarWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan2/CheckCarWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan2/Refrigerrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan2/Refrigerrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3/MeetFriendState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3/MeetFriendState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3_extra/ColdWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3_extra/ColdWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3_extra/HotWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan3_extra/HotWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan4/MobileShop$InnerPurchaseMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan4/MobileShop$InnerPurchaseMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan4/MobileShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/_6_/shiyan4/MobileShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study_codes/xiti/QianShi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study_codes/xiti/QianShi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1_/_1_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_/_1_E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2_/_2_CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_/_2_CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2_/_2_GreekAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_/_2_GreekAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2_/_2_InputArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_/_2_InputArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2_/_2_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_/_2_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_CalculatePi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_CalculatePi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_GuessNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_3_/_3_Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_/_3_Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_/_4_Land.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_/_4_Land.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_/_4_RegularPolygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_/_4_RegularPolygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_/_4_Village.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_/_4_Village.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_/tom/_4_SunRise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_/tom/_4_SunRise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_4_/tom/jiafei/_4_SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_/tom/jiafei/_4_SquareEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/American.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/American.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/Beijingman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/Beijingman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/Chinese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/CompanySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/CompanySalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_/SaveMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_/SaveMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_extra/ConstructorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_extra/ConstructorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_extra/DynamicBindingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_extra/DynamicBindingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_extra/HidingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_extra/HidingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_5_extra/TestChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_extra/TestChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan2/CheckCarWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan2/CheckCarWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan2/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3/MeetAnotherDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3/MeetAnotherDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3/MeetEnemyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3/MeetEnemyState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3/MeetFriendState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3/MeetFriendState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3/SoflyState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3/SoflyState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3_extra/ColdWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3_extra/ColdWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3_extra/HotWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3_extra/HotWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan3_extra/Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan3_extra/Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_6_/shiyan4/MobileShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_6_/shiyan4/MobileShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiti/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiti/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiti/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiti/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiti/JieCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiti/JieCheng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiti/QianShi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiti/QianShi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xiti/SuShu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xiti/SuShu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +138,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "java.suggest.annotation.dependency": "false",
-    "last_opened_file_path": "D:/java_study_codes/notes",
+    "last_opened_file_path": "D:/java_study_codes/src/_7_",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +152,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "fileTemplates",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "settings.editor.splitter.proportion": "0.18450561",
     "vue.rearranger.settings.migration": "true"
   }
@@ -94,23 +162,29 @@
       <recent name="_6_.shiyan3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_study_codes\notes" />
-      <recent name="D:\java_study_codes\src\_8_" />
-      <recent name="D:\java_study_codes\src\qizhong" />
-      <recent name="D:\java_study_codes\src\qizhong\test4_2" />
       <recent name="D:\java_study_codes\src\_7_" />
+      <recent name="D:\java_study_codes\notes" />
+      <recent name="D:\java_study_codes\src\_5_extra" />
+      <recent name="D:\java_study_codes\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ShowCalendar">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_.shiyan2.Factorial" />
+  <component name="RunManager" selected="应用程序.ComputerPrice">
+    <configuration name="BlackCowFarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackCowFarm" />
+      <module name="java_study_codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_.shiyan1.Check" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_9_.shiyan2.*" />
+          <option name="PATTERN" value="_7_.shiyan1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandleBigInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_.shiyan2.HandleBigInteger" />
+    <configuration name="ComputerPrice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_.shiyan3.ComputerPrice" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_9_.shiyan2.*" />
+          <option name="PATTERN" value="_7_.shiyan3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,38 +205,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_.shiyan3.MainClass" />
+    <configuration name="Example3_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example3_9" />
       <module name="java_study_codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_9_.shiyan3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_.shiyan4.ShowCalendar" />
+    <configuration name="FindMess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_7_.shiyan2.FindMess" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_9_.shiyan4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_9_.shiyan2.Sum" />
-      <module name="java_study_codes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_9_.shiyan2.*" />
+          <option name="PATTERN" value="_7_.shiyan2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ShowCalendar" />
-        <item itemvalue="应用程序.MainClass" />
-        <item itemvalue="应用程序.Sum" />
-        <item itemvalue="应用程序.Factorial" />
-        <item itemvalue="应用程序.HandleBigInteger" />
+        <item itemvalue="应用程序.ComputerPrice" />
+        <item itemvalue="应用程序.FindMess" />
+        <item itemvalue="应用程序.Check" />
+        <item itemvalue="应用程序.Example3_9" />
+        <item itemvalue="应用程序.BlackCowFarm" />
       </list>
     </recent_temporary>
   </component>
@@ -237,14 +292,7 @@
       <workItem from="1681628283999" duration="511000" />
       <workItem from="1681628811498" duration="6477000" />
       <workItem from="1681654753312" duration="1997000" />
-      <workItem from="1681720020096" duration="4407000" />
-      <workItem from="1681829657748" duration="1676000" />
-      <workItem from="1681878941803" duration="80000" />
-      <workItem from="1682009887636" duration="3235000" />
-      <workItem from="1682057933197" duration="14000" />
-      <workItem from="1682324387149" duration="6611000" />
-      <workItem from="1683467091135" duration="591000" />
-      <workItem from="1683467699454" duration="13386000" />
+      <workItem from="1681720020096" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -568,28 +616,7 @@
       <option name="project" value="LOCAL" />
       <updated>1681159751595</updated>
     </task>
-    <task id="LOCAL-00047" summary="第10周，第7次实验,上传了实验报告">
-      <created>1681724332996</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1681724332996</updated>
-    </task>
-    <task id="LOCAL-00048" summary="第10周，第7次实验,更新了实验报告">
-      <created>1681724822157</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1681724822157</updated>
-    </task>
-    <task id="LOCAL-00049" summary="第11周，没做实验,进行了实验课测试">
-      <created>1682331381100</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1682331381100</updated>
-    </task>
-    <option name="localTasksCounter" value="50" />
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,10 +652,7 @@
     <MESSAGE value="第八周，第五次实验，重新提交" />
     <MESSAGE value="第9周，第6次实验" />
     <MESSAGE value="第9周，第6次实验,重新上传了实验报告" />
-    <MESSAGE value="第10周，第7次实验,上传了实验报告" />
-    <MESSAGE value="第10周，第7次实验,更新了实验报告" />
-    <MESSAGE value="第11周，没做实验,进行了实验课测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="第11周，没做实验,进行了实验课测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="第9周，第6次实验,重新上传了实验报告" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

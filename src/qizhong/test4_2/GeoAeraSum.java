@@ -4,7 +4,11 @@ import org.jetbrains.annotations.NotNull;
 
 /**
  * \* Created with IntelliJ IDEA.
+<<<<<<< HEAD
  * \* User: li-jihong
+=======
+ * \* User: lijihong
+>>>>>>> origin/master
  * \* Date: 2023-04-24
  * \* Time: 17:28
  * \
