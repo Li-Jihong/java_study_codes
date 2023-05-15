@@ -1,0 +1,3 @@
+品名：电视，length：102cm，width：89cm，height：56cm.
+品名：轿车，length：4502m，width：178cm，height：156cm.
+品名：桌子，length：125m，width：78cm，height：68cm.
