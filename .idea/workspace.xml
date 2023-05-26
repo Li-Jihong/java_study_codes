@@ -4,33 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第9周，第6次实验,重新上传了实验报告">
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan1/LetterLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan1/RondomString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan1/SpellingWordFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan1/WordMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan2/FontDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan2/FontDialogMainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan2/FontFamilyNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan2/FrameHaveDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan3/AnalysisResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan3/AnalysisResult2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan3/Fenxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_/shiyan3/Fenxi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_/shiyan1/DictionaryOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_/shiyan1/OutputWordMess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_/shiyan1/WordStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_/shiyan2/ReadZipFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_/shiyan3/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/book.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/english.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goods.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/goodsVolume.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scoreAnalysis.txt" afterDir="false" />
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第14周，完成了10和11实验，完成了实验报告">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan1/ComputerAverPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan1/RandomGetRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan1/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan2/NewTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan2/TurnMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan3/GiveLetterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan3/InputLetterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan3/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan3/TypeKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan4/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_/shiyan4/TwoThreadGuessNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qizhong/test3/ZPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qizhong/test3/ZPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_study_codes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_study_codes.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,28 +58,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/java_study_codes/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "settings.editor.splitter.proportion": "0.18450561",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.38965517&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.18450561&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="_11_.shiyan1" />
@@ -97,23 +92,23 @@
       <recent name="_6_.shiyan3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_study_codes\src\_12_" />
+      <recent name="D:\java_study_codes\notes" />
       <recent name="D:\java_study_codes\src" />
       <recent name="D:\java_study_codes\src\_10_" />
       <recent name="D:\java_study_codes\src\_7_" />
-      <recent name="D:\java_study_codes\notes" />
-      <recent name="D:\java_study_codes\src\_5_extra" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ReadZipFile">
-    <configuration name="AnalysisResult2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_.shiyan3.AnalysisResult2" />
+  <component name="RunManager" selected="应用程序.TwoThreadGuessNumber">
+    <configuration name="NewTransaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_.shiyan2.NewTransaction" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_10_.shiyan3.*" />
+          <option name="PATTERN" value="_12_.shiyan2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictionaryOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_.shiyan1.DictionaryOutput" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_.shiyan1.Students" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_.shiyan1.*" />
+          <option name="PATTERN" value="_12_.shiyan1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_.shiyan3.MultiplicationTable" />
+    <configuration name="TurnMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_.shiyan2.TurnMoney" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_.shiyan3.*" />
+          <option name="PATTERN" value="_12_.shiyan2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutputWordMess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_.shiyan1.OutputWordMess" />
+    <configuration name="TwoThreadGuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_.shiyan4.TwoThreadGuessNumber" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_.shiyan1.*" />
+          <option name="PATTERN" value="_12_.shiyan4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadZipFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_.shiyan2.ReadZipFile" />
+    <configuration name="TypeKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_.shiyan3.TypeKey" />
       <module name="java_study_codes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_11_.shiyan2.*" />
+          <option name="PATTERN" value="_12_.shiyan3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ReadZipFile" />
-        <item itemvalue="应用程序.MultiplicationTable" />
-        <item itemvalue="应用程序.DictionaryOutput" />
-        <item itemvalue="应用程序.OutputWordMess" />
-        <item itemvalue="应用程序.AnalysisResult2" />
+        <item itemvalue="应用程序.TwoThreadGuessNumber" />
+        <item itemvalue="应用程序.TypeKey" />
+        <item itemvalue="应用程序.NewTransaction" />
+        <item itemvalue="应用程序.TurnMoney" />
+        <item itemvalue="应用程序.Students" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +237,14 @@
       <workItem from="1681654753312" duration="1997000" />
       <workItem from="1681720020096" duration="3856000" />
       <workItem from="1684138373351" duration="5979000" />
+      <workItem from="1684144477880" duration="188000" />
+      <workItem from="1684148319192" duration="13000" />
+      <workItem from="1684743852851" duration="541000" />
+      <workItem from="1684744411026" duration="622000" />
+      <workItem from="1684745051622" duration="113000" />
+      <workItem from="1684745176398" duration="6487000" />
+      <workItem from="1684814186767" duration="14000" />
+      <workItem from="1685102345278" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="第一周-搭建环境，测试代码-成功">
       <created>1676721074163</created>
@@ -565,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681159751595</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="第14周，完成了10和11实验，完成了实验报告">
+      <created>1684144559810</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1684144559810</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +612,8 @@
     <MESSAGE value="第八周，第五次实验，重新提交" />
     <MESSAGE value="第9周，第6次实验" />
     <MESSAGE value="第9周，第6次实验,重新上传了实验报告" />
-    <option name="LAST_COMMIT_MESSAGE" value="第9周，第6次实验,重新上传了实验报告" />
+    <MESSAGE value="第14周，完成了10和11实验，完成了实验报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="第14周，完成了10和11实验，完成了实验报告" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
