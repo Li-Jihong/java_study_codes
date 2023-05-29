@@ -18,9 +18,9 @@ public class test {
             File file = new File("src/hello.txt");
             FileOutputStream out = new FileOutputStream(file);
             PrintStream ps = new PrintStream(out);
-            ps.print(12345.6789);
-            ps.println("how are you");
-            ps.println(true);
+            ps.print("4666666666666666666666666666666");
+            ps.println(" 李季鸿");
+            ps.println(false);
             ps.close();
         }
         catch(IOException e){
