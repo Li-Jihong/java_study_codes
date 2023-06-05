@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第16周，周一，完成了实验13、14">
-      <change afterPath="$PROJECT_DIR$/image/fiveStar.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_/shiyan1/FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_/shiyan2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_/shiyan3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_/shiyan4/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_/shiyan4/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44180aa1-8502-4261-9888-75d38da88c55" name="变更" comment="第17周，周一，完成了实验15,并且对所有实验报告进行汇总，在/note/2624-李季鸿-面向对象程序设计.pdf里面是全部的，/doc里面是所有的word版本，这可能是最后一次上传了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/java_study_codes/src/_15_",
+    "last_opened_file_path": "D:/java_study_codes/doc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,11 +75,11 @@
       <recent name="_6_.shiyan3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_study_codes\src\_15_" />
+      <recent name="D:\java_study_codes\doc" />
       <recent name="D:\java_study_codes\notes" />
+      <recent name="D:\java_study_codes\src\_15_" />
       <recent name="D:\java_study_codes\image" />
       <recent name="D:\java_study_codes\src\Thread_xiti" />
-      <recent name="D:\java_study_codes\src\_12_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java_study_codes\notes" />
@@ -242,14 +234,7 @@
       <workItem from="1685348555552" duration="351000" />
       <workItem from="1685349398889" duration="7416000" />
       <workItem from="1685543238977" duration="13000" />
-      <workItem from="1685948570113" duration="1587000" />
-    </task>
-    <task id="LOCAL-00002" summary="第一周-搭建环境，测试代码-成功">
-      <created>1676721339959</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1676721339959</updated>
+      <workItem from="1685948570113" duration="2619000" />
     </task>
     <task id="LOCAL-00003" summary="第一周-搭建环境，测试代码-成功-2">
       <created>1676728560629</created>
@@ -587,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685356759727</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="第17周，周一，完成了实验15,并且对所有实验报告进行汇总，在/note/2624-李季鸿-面向对象程序设计.pdf里面是全部的，/doc里面是所有的word版本，这可能是最后一次上传了">
+      <created>1685952460167</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1685952460167</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +620,8 @@
     <MESSAGE value="第15周，完成了12实验，完成了实验报告" />
     <MESSAGE value="做了第12章多线程的几个题目放到了Thread_xiti包里面了" />
     <MESSAGE value="第16周，周一，完成了实验13、14" />
-    <option name="LAST_COMMIT_MESSAGE" value="第16周，周一，完成了实验13、14" />
+    <MESSAGE value="第17周，周一，完成了实验15,并且对所有实验报告进行汇总，在/note/2624-李季鸿-面向对象程序设计.pdf里面是全部的，/doc里面是所有的word版本，这可能是最后一次上传了" />
+    <option name="LAST_COMMIT_MESSAGE" value="第17周，周一，完成了实验15,并且对所有实验报告进行汇总，在/note/2624-李季鸿-面向对象程序设计.pdf里面是全部的，/doc里面是所有的word版本，这可能是最后一次上传了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
